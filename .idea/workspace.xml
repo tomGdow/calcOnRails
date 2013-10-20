@@ -4,7 +4,7 @@
     <list default="true" id="4c5e939f-81f7-4215-8e5e-050a9ebd3609" name="Default" comment="" />
     <ignored path="calcheroku.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/routes.rb" changelist="4c5e939f-81f7-4215-8e5e-050a9ebd3609" time="1382283614991" ignored="false" />
+    <file path="/routes.rb" changelist="4c5e939f-81f7-4215-8e5e-050a9ebd3609" time="1382289449239" ignored="false" />
     <file path="/index.html.erb" changelist="4c5e939f-81f7-4215-8e5e-050a9ebd3609" time="1382284826591" ignored="false" />
     <file path="/myCalculator_v3.css" changelist="4c5e939f-81f7-4215-8e5e-050a9ebd3609" time="1382285072432" ignored="false" />
     <file path="/application.html.erb" changelist="4c5e939f-81f7-4215-8e5e-050a9ebd3609" time="1382288667372" ignored="false" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="1" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+            <state line="3" column="82" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,19 +90,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/calcs/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="469" selection-end="469" vertical-scroll-proportion="0.6195652">
+            <state line="19" column="33" selection-start="469" selection-end="469" vertical-scroll-proportion="-11.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+            <state line="11" column="58" selection-start="234" selection-end="234" vertical-scroll-proportion="0.3409091">
               <folding />
             </state>
           </provider>
@@ -120,16 +120,16 @@
       <list>
         <option value="$PROJECT_DIR$/app/controllers/calcs_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/myCalculator_v3.css" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/calcs/index.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="142" />
+    <option name="x" value="291" />
+    <option name="y" value="-605" />
     <option name="width" value="1303" />
     <option name="height" value="685" />
   </component>
@@ -304,10 +304,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -601,14 +597,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="142" width="1303" height="685" extended-state="0" />
-    <editor active="true" />
+    <frame x="291" y="-605" width="1303" height="685" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40143654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40143654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -719,20 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="1" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="9" selection-start="818" selection-end="818" vertical-scroll-proportion="-10.5">
@@ -742,7 +724,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/calcs/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="469" selection-end="469" vertical-scroll-proportion="0.6195652">
+        <state line="19" column="33" selection-start="469" selection-end="469" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="82" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="58" selection-start="234" selection-end="234" vertical-scroll-proportion="0.3409091">
           <folding />
         </state>
       </provider>

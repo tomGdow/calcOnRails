@@ -1,6 +1,6 @@
 Calcheroku::Application.routes.draw do
 
-
+  resources :calcs
   root :to => "calcs#index"
 
   # The priority is based upon order of creation:
