@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>JavaScript Calculator</title>
+
+
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="./javascript/html5shiv.js"></script>
+  <script src="./javascript/respond.min.js"></script>
+  <![endif]-->
+
+  <%= stylesheet_link_tag 'myCalculator_v3.css' %>
+
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/sunny/jquery-ui.css">
+  <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.ico" />
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
+
+</head>
+<body>
+<h1>JavaScript Calculator </h1>
+
+<h2>by tomDow</h2>
+<div id = "myCalculator">
+
+  <div id="panelDiv">
+    <input type ="text" id = "calcPanel" />
+  </div> <!--End panelDiv-->
+
+  <div id="buttonsWrapper">
+
+    <div id="calcRowOne"></div>
+    <div id="calcRowTwo"></div>
+    <div id="calcRowThree"></div>
+    <div id="calcRowFour"></div>
+    <div id="calcRowFive"></div>
+    <div id="calcRowSix"></div>
+
+  </div><!--End Buttons Wrapper-->
+</div><!--End myCalculator Div-->
+
+<!-- External javaScript-->
+
+<%= javascript_include_tag  'myCalculator_v3.js' %>
+
+</body>
+</html>
