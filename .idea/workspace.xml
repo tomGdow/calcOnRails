@@ -80,10 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/calcs/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="32" selection-start="885" selection-end="885" vertical-scroll-proportion="0.26751593">
+            <state line="28" column="69" selection-start="886" selection-end="886" vertical-scroll-proportion="-5.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20669292">
               <folding />
             </state>
           </provider>
@@ -103,12 +112,13 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/myCalculator_v3.css" />
         <option value="$PROJECT_DIR$/app/views/calcs/index.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="-716" />
+    <option name="x" value="77" />
+    <option name="y" value="106" />
     <option name="width" value="1303" />
     <option name="height" value="685" />
   </component>
@@ -433,6 +443,13 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="calcheroku" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -552,7 +569,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="-716" width="1303" height="685" extended-state="0" />
+    <frame x="77" y="106" width="1303" height="685" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -679,7 +696,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/calcs/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="32" selection-start="885" selection-end="885" vertical-scroll-proportion="0.26751593">
+        <state line="28" column="69" selection-start="886" selection-end="886" vertical-scroll-proportion="-5.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20669292">
           <folding />
         </state>
       </provider>
